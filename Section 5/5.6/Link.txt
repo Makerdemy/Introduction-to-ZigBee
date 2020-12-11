@@ -1,0 +1,1 @@
+XBee CE Paramter in Digimesh Firmware: https://www.digi.com/resources/documentation/Digidocs/90001506/reference/r_cmd_ce.htm?TocPath=AT%20commands%7CNetwork%20commands%7C_____1

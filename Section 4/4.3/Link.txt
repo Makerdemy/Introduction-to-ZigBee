@@ -1,0 +1,1 @@
+Choosing a Current limiting Resistor: https://learn.digilentinc.com/Documents/179

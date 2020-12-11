@@ -1,0 +1,2 @@
+ESP32: http://esp32.net/
+Raspberry Pi: https://magpi.raspberrypi.org/books/beginners-guide-3rd-ed

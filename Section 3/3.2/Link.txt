@@ -1,0 +1,1 @@
+XCTU Download: https://www.digi.com/products/embedded-systems/digi-xbee/digi-xbee-tools/xctu
